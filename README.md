@@ -1,4 +1,4 @@
-# RegreoupeLesEtFuis
+# RegroupeLesEtFuis
 
 Il s'agit d'un jeu fait au 2/3 de ma permiere année de DUT Informatique pour passer m'amuser.
 
